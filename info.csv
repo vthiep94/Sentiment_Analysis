@@ -1,0 +1,104 @@
+,tickers,sectors,industries,names
+AAPL,AAPL,Technology,Consumer Electronics,Apple Inc.
+MSFT,MSFT,Technology,Software—Infrastructure,Microsoft Corporation
+AMZN,AMZN,Consumer Cyclical,Internet Retail,Amazon.com Inc.
+FB,FB,Communication Services,Internet Content & Information,Facebook Inc. Class A
+GOOGL,GOOGL,Communication Services,Internet Content & Information,Alphabet Inc. Class A
+GOOG,GOOG,Communication Services,Internet Content & Information,Alphabet Inc. Class C
+BRK.B,BRK.B,Others,Others,Berkshire Hathaway Inc. Class B
+JNJ,JNJ,Healthcare,Drug Manufacturers—General,Johnson & Johnson
+V,V,Financial Services,Credit Services,Visa Inc. Class A
+PG,PG,Consumer Defensive,Household & Personal Products,Procter & Gamble Company
+JPM,JPM,Financial Services,Banks—Diversified,JPMorgan Chase & Co.
+NVDA,NVDA,Technology,Semiconductors,NVIDIA Corporation
+UNH,UNH,Healthcare,Healthcare Plans,UnitedHealth Group Incorporated
+MA,MA,Financial Services,Credit Services,Mastercard Incorporated Class A
+HD,HD,Consumer Cyclical,Home Improvement Retail,Home Depot Inc.
+VZ,VZ,Communication Services,Telecom Services,Verizon Communications Inc.
+DIS,DIS,Communication Services,Entertainment,Walt Disney Company
+NFLX,NFLX,Communication Services,Entertainment,Netflix Inc.
+ADBE,ADBE,Technology,Software—Infrastructure,Adobe Inc.
+PYPL,PYPL,Financial Services,Credit Services,PayPal Holdings Inc
+CRM,CRM,Technology,Software—Application,salesforce.com inc.
+MRK,MRK,Healthcare,Drug Manufacturers—General,Merck & Co. Inc.
+T,T,Communication Services,Telecom Services,AT&T Inc.
+INTC,INTC,Technology,Semiconductors,Intel Corporation
+PFE,PFE,Healthcare,Drug Manufacturers—General,Pfizer Inc.
+CMCSA,CMCSA,Communication Services,Entertainment,Comcast Corporation Class A
+BAC,BAC,Financial Services,Banks—Diversified,Bank of America Corp
+WMT,WMT,Consumer Defensive,Discount Stores,Walmart Inc.
+KO,KO,Consumer Defensive,Beverages—Non-Alcoholic,Coca-Cola Company
+PEP,PEP,Consumer Defensive,Beverages—Non-Alcoholic,PepsiCo Inc.
+ABT,ABT,Healthcare,Medical Devices,Abbott Laboratories
+CSCO,CSCO,Technology,Communication Equipment,Cisco Systems Inc.
+XOM,XOM,Energy,Oil & Gas Integrated,Exxon Mobil Corporation
+TMO,TMO,Healthcare,Diagnostics & Research,Thermo Fisher Scientific Inc.
+ABBV,ABBV,Healthcare,Drug Manufacturers—General,AbbVie Inc.
+MCD,MCD,Consumer Cyclical,Restaurants,McDonald's Corporation
+COST,COST,Consumer Defensive,Discount Stores,Costco Wholesale Corporation
+ACN,ACN,Technology,Information Technology Services,Accenture Plc Class A
+CVX,CVX,Energy,Oil & Gas Integrated,Chevron Corporation
+AMGN,AMGN,Healthcare,Drug Manufacturers—General,Amgen Inc.
+MDT,MDT,Healthcare,Medical Devices,Medtronic Plc
+AVGO,AVGO,Technology,Semiconductors,Broadcom Inc.
+NKE,NKE,Consumer Cyclical,Footwear & Accessories,NIKE Inc. Class B
+NEE,NEE,Utilities,Utilities—Regulated Electric,NextEra Energy Inc.
+BMY,BMY,Healthcare,Drug Manufacturers—General,Bristol-Myers Squibb Company
+UNP,UNP,Industrials,Railroads,Union Pacific Corporation
+LIN,LIN,Basic Materials,Specialty Chemicals,Linde plc
+LLY,LLY,Healthcare,Drug Manufacturers—General,Eli Lilly and Company
+TXN,TXN,Technology,Semiconductors,Texas Instruments Incorporated
+QCOM,QCOM,Technology,Semiconductors,QUALCOMM Incorporated
+DHR,DHR,Healthcare,Diagnostics & Research,Danaher Corporation
+PM,PM,Consumer Defensive,Tobacco,Philip Morris International Inc.
+LOW,LOW,Consumer Cyclical,Home Improvement Retail,Lowe's Companies Inc.
+HON,HON,Industrials,Specialty Industrial Machinery,Honeywell International Inc.
+ORCL,ORCL,Technology,Software—Infrastructure,Oracle Corporation
+UPS,UPS,Industrials,Integrated Freight & Logistics,United Parcel Service Inc. Class B
+AMT,AMT,Real Estate,REIT—Specialty,American Tower Corporation
+IBM,IBM,Technology,Information Technology Services,International Business Machines Corporation
+C,C,Financial Services,Banks—Diversified,Citigroup Inc.
+SBUX,SBUX,Consumer Cyclical,Restaurants,Starbucks Corporation
+LMT,LMT,Industrials,Aerospace & Defense,Lockheed Martin Corporation
+MMM,MMM,Industrials,Specialty Industrial Machinery,3M Company
+AMD,AMD,Technology,Semiconductors,Advanced Micro Devices Inc.
+FIS,FIS,Technology,Information Technology Services,Fidelity National Information Services Inc.
+CHTR,CHTR,Communication Services,Entertainment,Charter Communications Inc. Class A
+WFC,WFC,Financial Services,Banks—Diversified,Wells Fargo & Company
+RTX,RTX,Industrials,Aerospace & Defense,Raytheon Technologies Corporation
+BA,BA,Industrials,Aerospace & Defense,Boeing Company
+BLK,BLK,Financial Services,Asset Management,BlackRock Inc.
+NOW,NOW,Technology,Software—Application,ServiceNow Inc.
+INTU,INTU,Technology,Software—Application,Intuit Inc.
+SPGI,SPGI,Financial Services,Financial Data & Stock Exchanges,S&P Global Inc.
+ISRG,ISRG,Healthcare,Medical Instruments & Supplies,Intuitive Surgical Inc.
+MDLZ,MDLZ,Consumer Defensive,Confectioners,Mondelez International Inc. Class A
+GILD,GILD,Healthcare,Drug Manufacturers—General,Gilead Sciences Inc.
+CAT,CAT,Industrials,Farm & Heavy Construction Machinery,Caterpillar Inc.
+MO,MO,Consumer Defensive,Tobacco,Altria Group Inc
+CVS,CVS,Healthcare,Healthcare Plans,CVS Health Corporation
+BKNG,BKNG,Consumer Cyclical,Travel Services,Booking Holdings Inc.
+ZTS,ZTS,Healthcare,Drug Manufacturers—Specialty & Generic,Zoetis Inc. Class A
+PLD,PLD,Real Estate,REIT—Industrial,Prologis Inc.
+TGT,TGT,Consumer Defensive,Discount Stores,Target Corporation
+BDX,BDX,Healthcare,Medical Instruments & Supplies,Becton Dickinson and Company
+AXP,AXP,Financial Services,Credit Services,American Express Company
+ANTM,ANTM,Healthcare,Healthcare Plans,Anthem Inc.
+VRTX,VRTX,Healthcare,Biotechnology,Vertex Pharmaceuticals Incorporated
+TJX,TJX,Consumer Cyclical,Apparel Retail,TJX Companies Inc
+CCI,CCI,Real Estate,REIT—Specialty,Crown Castle International Corp
+DE,DE,Industrials,Farm & Heavy Construction Machinery,Deere & Company
+D,D,Utilities,Utilities—Diversified,Dominion Energy Inc
+EQIX,EQIX,Real Estate,REIT—Specialty,Equinix Inc.
+TMUS,TMUS,Communication Services,Telecom Services,T-Mobile US Inc.
+APD,APD,Basic Materials,Chemicals,Air Products and Chemicals Inc.
+CL,CL,Consumer Defensive,Household & Personal Products,Colgate-Palmolive Company
+CI,CI,Healthcare,Healthcare Plans,Cigna Corporation
+SYK,SYK,Healthcare,Medical Devices,Stryker Corporation
+GS,GS,Financial Services,Capital Markets,Goldman Sachs Group Inc.
+MS,MS,Financial Services,Capital Markets,Morgan Stanley
+CME,CME,Financial Services,Financial Data & Stock Exchanges,CME Group Inc. Class A
+DUK,DUK,Utilities,Utilities—Regulated Electric,Duke Energy Corporation
+ATVI,ATVI,Communication Services,Electronic Gaming & Multimedia,Activision Blizzard Inc.
+ADP,ADP,Industrials,Staffing & Employment Services,Automatic Data Processing Inc.
+BSX,BSX,Healthcare,Medical Devices,Boston Scientific Corporation
